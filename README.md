@@ -1,12 +1,6 @@
-# Simple-project.fake-plastic-trees
 # ☕ Simple Coffee Schedule System
 
 **Веб-сервис для автоматизации управления расписанием в сети кофеен Simple Coffee**
-
-[![Status: In Development](https://img.shields.io/badge/Status-In_Development-blue)](https://github.com/your-username/simple-coffee-schedule)
-[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/your-username/simple-coffee-schedule/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
-
 ## 🎯 О проекте
 
 Simple Coffee Schedule System — это современное веб-приложение, которое заменяет устаревшие Excel-таблицы и чаты для управления расписанием сотрудников в сети кофеен Simple Coffee. 
